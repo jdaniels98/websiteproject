@@ -152,3 +152,9 @@ button:hover {
     display: inline-block;
     text-align: center;
 }
+
+.imghome {
+    display: block;
+    margin: 0 auto;
+    width: 21%;
+}
